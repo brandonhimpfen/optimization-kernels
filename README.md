@@ -1,5 +1,11 @@
 # optimization-kernels
 
+[![Support Open Work](https://img.shields.io/badge/Support-Open%20Work-0A0A0A?style=flat&logo=github)](https://github.com/brandonhimpfen/support) 
+[![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) 
+[![Buy Me a Coffee](https://srv-cdn.himpfen.io/badges/buymeacoffee/buymeacoffee-flat.svg)](https://buymeacoffee.com/brandonhimpfen) 
+[![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/brandonhimpfen) 
+[![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://paypal.me/brandonhimpfen)
+
 C++ kernels and utilities for quantization and inference optimization experiments.
 
 `optimization-kernels` is a small, focused C++ project for exploring low-level building blocks used in AI inference optimization. Version 0.1 provides int8 quantization helpers, dequantization helpers, a simple float32 matrix multiplication kernel, an int8 inference-style matrix multiplication path, a benchmark harness, and a comparison example.
